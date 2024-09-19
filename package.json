@@ -1,0 +1,19 @@
+{
+  "name": "recomendation_system",
+  "version": "1.0.0",
+  "description": "Movies Recommendation System Using Python Simple Model",
+  "main": "main.py , Main.ipynb",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rishi222/Movie-Recommendation-System-.git"
+  },
+  "author": "Rishi Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rishi222/Movie-Recommendation-System-/issues"
+  },
+  "homepage": "https://github.com/Rishi222/Movie-Recommendation-System-#readme"
+}
